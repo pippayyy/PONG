@@ -1,5 +1,5 @@
 #Import libraries
-import picounicorn
+import picounicorn # special library available in the pimoroni firmware for the pico - this won't work without using that firmware
 import utime
 picounicorn.init()
 
